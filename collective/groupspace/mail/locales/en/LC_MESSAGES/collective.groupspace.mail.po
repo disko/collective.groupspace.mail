@@ -12,112 +12,112 @@ msgstr ""
 
 #: ./browser/mailview.py:316
 msgid "An error occurred while sending the email. %s"
-msgstr "Se ha producido un error al enviar el correo. %s"
+msgstr ""
 
 #: ./roles.py:187
 msgid "An error occurred while sending the email. %s,"
-msgstr "Se ha producido un error al enviar el correo. %s"
+msgstr ""
 
 #: ./browser/mailview.py:319
 msgid "Emails sent."
-msgstr "Correos enviados"
+msgstr ""
 
 #: ./roles.py:189
 msgid "Notification emails sent."
-msgstr "Correos de notificación enviados"
+msgstr ""
 
 #: ./browser/mailview.py:110
 msgid "Please correct the indicated errors."
-msgstr "Por favor, corrije los errores indicados"
+msgstr ""
 
 #: ./browser/mailview.py:91
 msgid "Please enter a valid email address."
-msgstr "Por favor, introduce una dirección de correo válida"
+msgstr ""
 
 #: ./browser/mailview.py:83
 msgid "Please fill in a message."
-msgstr "Por favor, introduce un mensaje"
+msgstr ""
 
 #: ./browser/mailview.py:87
 msgid "Select at least one recipient."
-msgstr "Selecciona al menos un destinatario"
+msgstr ""
 
 #: ./roles.py:134
 msgid "Your email address is invalid: %s"
-msgstr "Tu dirección de correo es inválida: %s"
+msgstr ""
 
 #. Default: "Email to Group"
 #: ./portlets/groupmailportlet.pt:16
 msgid "box_group_mail"
-msgstr "Correo a grupo"
+msgstr ""
 
 #. Default: "Send an email to the group"
 #: ./browser/mailview.pt:22
 msgid "heading_send_email_to_group"
-msgstr "Enviar un correo al grupo"
+msgstr ""
 
 #. Default: "The Email message."
 #: ./browser/mailview.pt:113
 msgid "help_message"
-msgstr "El mensaje del correo"
+msgstr ""
 
 #. Default: "Your email address."
 #: ./browser/mailview.pt:92
 msgid "help_send_from"
-msgstr "Tu dirección de correo"
+msgstr ""
 
 #. Default: "This mail is sent to the following members of the group"
 #: ./browser/mailview.pt:62
 msgid "help_send_to_members"
-msgstr "Este correo se enviará a los siguientes miembros del grupo"
+msgstr ""
 
 #. Default: "Message"
 #: ./browser/mailview.pt:111
 msgid "label_message"
-msgstr "Mensaje"
+msgstr ""
 
 #. Default: "(Required)"
 #: ./browser/mailview.pt:58
 msgid "label_required"
-msgstr "(Requerido)"
+msgstr ""
 
 #. Default: "Send"
 #: ./browser/mailview.pt:132
 msgid "label_send"
-msgstr "Enviar"
+msgstr ""
 
 #. Default: "From"
 #: ./browser/mailview.pt:86
 msgid "label_send_from"
-msgstr "De"
+msgstr ""
 
 #. Default: "Send to"
 #: ./browser/mailview.pt:56
 msgid "label_send_to_members"
-msgstr "Enviar a"
+msgstr ""
 
 #. Default: "Address info"
 #: ./browser/mailview.pt:50
 msgid "legend_address_info"
-msgstr "Información sobre la dirección"
+msgstr ""
 
 #. Default: "You need to set your email address in the preferences in order to send messages."
 #: ./browser/mailview.pt:34
 msgid "no_email_in_preferences"
-msgstr "Es necesario que especifiques tu dirección de correo en tus preferencias para poder enviar correos"
+msgstr ""
 
 #. Default: "No email addresses found!"
 #: ./browser/mailview.pt:27
 msgid "no_emails_found"
-msgstr "No se han encontrado direcciones"
+msgstr ""
 
 #. Default: "To: %(to_email)s\nFrom: %(from_email)s\nErrors-to: %(from_email)s\nSubject: Your roles have changed in the GroupSpace \"%(content_title)s\"\nContent-Type: text/plain; charset=%(default_charset)s\nContent-Transfer-Encoding: 8bit\n\nYou now have the following roles in the group \"%(content_title)s\":\n\n%(new_roles)s\n\nlocated at \n\n%(content_url)s\n\nBefore the change, you had the following roles in the group:\n\n%(old_roles)s\n"
 #: ./roles.py:150
 msgid "notification_email"
-msgstr "To: %(to_email)s\nFrom: %(from_email)s\nErrors-to: %(from_email)s\nSubject: Tus roles han cambiado en el espacio web \"%(content_title)s\"\nContent-Type: text/plain; charset=%(default_charset)s\nContent-Transfer-Encoding: 8bit\n\nAhora tienes en \"%(content_title)s\" los roles:\n\n%(new_roles)s\n\nlocalizado en \n\n%(content_url)s\n\nAntes del cambio, tenías los siguientes roles:\n\n%(old_roles)s\n"
+msgstr ""
 
 #. Default: "Required"
 #: ./browser/mailview.pt:58
 msgid "title_required"
-msgstr "Requerido"
+msgstr ""
 
